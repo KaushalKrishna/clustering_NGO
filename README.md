@@ -8,3 +8,6 @@ Our job is to categorise the countries using some socio-economic and health fact
 
 
 project file - `NGO - Clustering.ipynb`
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaushalKrishna%2Fclustering_NGO%2F&count_bg=%2379C83D&title_bg=%23555555&icon=darkreader.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
